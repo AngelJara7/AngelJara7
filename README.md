@@ -1,6 +1,6 @@
 ### 👋 Hola mi nombre es Angel Jaramillo
 
-Soy Programador web, actualmente estoy aprendiendo sobre tecnologías de desarrollo frontend y backend.
+Soy Programador junior, actualmente estoy aprendiendo sobre tecnologías de desarrollo frontend y backend.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-jaramillo-6b7835254)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:angeljara07@outlook.com)
